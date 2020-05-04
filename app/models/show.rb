@@ -9,9 +9,4 @@ class Show < ActiveRecord::Base
     end 
   end 
   
-  # def characters 
-  #   # self.characters
-  # end 
-  
-  
 end
