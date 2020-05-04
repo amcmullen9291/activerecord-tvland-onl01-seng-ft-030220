@@ -6,12 +6,4 @@ class Character < ActiveRecord::Base
     "#{self.name} always says: #{self.catchphrase}"
   end
   
-  # def get_actor_name
-  #   self.actor
-  # end
-   
-  # def get_show_name
-  #   self.show
-  # end
-
 end
